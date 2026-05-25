@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../../AM1/PublicData/PublicData.csproj" Id="f0423b4d-6f8a-4e99-8245-65ce8c6c7317" />
+  <Project Path="../ClassLibrary1/InternalEx.csproj" Id="5ad8f030-2ad8-437e-b7d1-733ebcaf340c" />
+  <Project Path="PublicAccess.csproj" Id="f55597fe-5743-4a22-ae67-c90b17017bb4" />
+</Solution>
